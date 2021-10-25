@@ -4,7 +4,9 @@ Combined SPDIF and OPL3 so that songs from old DOS games can be played over TOSL
 
 See video here:
 https://www.youtube.com/watch?v=GgPi5A4CDTg
+
 https://www.youtube.com/watch?v=gVxg3nN9CN4
+
 https://www.youtube.com/watch?v=NECOgqbyeTc
 
 SPDIF code is from here:
